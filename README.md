@@ -118,10 +118,17 @@ Observational analysis using NHANES/BRFSS with causal inference methods includin
  
 **Dissertation:** *Implementation and Value Assessment of EHR-Embedded CKD Screening Algorithms* — A mixed-methods study with Kaiser Permanente Northwest examining the adoption, reach, and cost-effectiveness of predictive screening tools for chronic kidney disease.
  
-**Recent work:**
-- Dulitzki C, Arseneault M. *Uncertainty-Triggered Participatory-Informed Learning (UTPIL): A Framework for Addressing Bias in Clinical AI.* In preparation.
-- [UPDATE: Add climate health paper here with correct citation]
-- [UPDATE: Add Ioannidis paper here with correct title]
+## Peer-Reviewed Publications
+
+Dulitzki C, Crane SM, Hardwicke TE, Ioannidis JPA. Expanding the Data Ark: An attempt to make the data from highly cited social science papers publicly available. *Royal Society Open Science*. 2024;11:240016.
+
+Agache I, Sampath V, Aguilera J, et al. Climate change and global health: A call to more research and more action. *Allergy*. 2022;77(5):1389–1407.
+
+**In Preparation:**
+
+Dulitzki C, Arseneault M, Jacobs P. Runtime governance of predictive clinical decision support systems: Patient-level reliability signals used to guide system behavior — a scoping review and conceptual synthesis. Target: *JAMIA*.
+
+Frehlich L, Dulitzki C, Clay J, Stamatakis E. Does physical activity moderate the health effects of alcohol? A scoping review and narrative synthesis.
  
 ---
  
