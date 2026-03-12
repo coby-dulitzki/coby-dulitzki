@@ -26,11 +26,11 @@ This portfolio demonstrates the analytic pipeline that connects **clinical probl
 <tr>
 <td width="50%" valign="top">
  
-### 🔬 ADA Guideline Concordance Care Cascade
+### 🔬 ADA Guideline Concordance Analysis
 <!-- ![Care Cascade](ada-guideline-care-cascade/figures/sankey_preview.png) -->
-Sankey/alluvial visualization of ADA guideline adherence for diabetes precision pharmacology using NHANES data. Maps the care cascade from eligible population through screening, diagnosis, and treatment concordance with ADA Standards of Care.
+Sankey/alluvial visualization comparing observed diabetes prescribing patterns against ADA guideline recommendations using NHANES data. Maps patient risk profiles to treatment regimens and identifies concordance gaps.
  
-`R` · `ggalluvial` · `ggplot2` · `NHANES` · `Clinical Guidelines`
+`R` · `ggplot2` · `ggalluvial` · `NHANES` · `Clinical Guideline Concordance`
  
 [**→ View Repository**](https://github.com/coby-dulitzki/ada-guideline-care-cascade)
  
