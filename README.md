@@ -4,11 +4,7 @@
 
 Doctoral Researcher · Health Systems & Policy · OHSU-PSU School of Public Health
 
-<br>
-
 *Precision prevention · Implementation science · Health economic evaluation*
-
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cobydulitzki)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=lv4jIvMAAAAJ&hl=en&oi=sra)
