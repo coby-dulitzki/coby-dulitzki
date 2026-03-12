@@ -93,23 +93,23 @@ Observational analysis using NHANES/BRFSS with causal inference methods includin
 -->
  
 ---
- 
+
 ## Methods & Tools
- 
+
 <table>
 <tr>
 <td align="center" width="25%"><strong>Real-World Evidence</strong><br><sub>NHANES · BRFSS<br>Survey data analysis</sub></td>
-<td align="center" width="25%"><strong>Causal Inference</strong><br><sub>Difference-in-differences<br>Callaway-Sant'Anna</sub></td>
+<td align="center" width="25%"><strong>Causal Inference</strong><br><sub>Difference-in-differences<br>Observational study design</sub></td>
 <td align="center" width="25%"><strong>Implementation Science</strong><br><sub>CFIR · RE-AIM<br>Mixed methods</sub></td>
 <td align="center" width="25%"><strong>Data Visualization</strong><br><sub>ggplot2 · ggalluvial<br>Clinical workflow mapping</sub></td>
 </tr>
 </table>
- 
+
 <div align="center">
 <br>
- 
+
 **Primary language:** R &nbsp;·&nbsp; **Secondary:** SAS · Python
- 
+
 </div>
  
 ---
